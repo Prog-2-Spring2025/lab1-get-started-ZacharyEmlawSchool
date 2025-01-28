@@ -1,0 +1,8 @@
+﻿Build started at 4:09 PM...
+1>------ Build started: Project: Prog 2 - Lab1 Template 1, Configuration: Debug x64 ------
+1>functions.cpp
+1>main.cpp
+1>Generating Code...
+1>Prog 2 - Lab1 Template 1.vcxproj -> C:\Users\zceml\Source\Repos\lab1-get-started-ZacharyEmlawSchool\x64\Debug\Prog 2 - Lab1 Template 1.exe
+========== Build: 1 succeeded, 0 failed, 0 up-to-date, 0 skipped ==========
+========== Build completed at 4:09 PM and took 01.545 seconds ==========
